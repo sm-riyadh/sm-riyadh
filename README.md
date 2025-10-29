@@ -1,6 +1,6 @@
-# Hi 👋, I'm SM Riyadh
+# Hi, I'm Riyadh
 
-### An experienced Javascript developer
+### Not your typical Web Dev
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-riyadh&label=Profile views&color=0e75b6&style=flat" alt="sm-riyadh" /> </p>
 
